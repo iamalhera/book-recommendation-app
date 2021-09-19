@@ -1,0 +1,29 @@
+.App {
+  font-family: "Courgette", cursive;
+  text-align: center;
+}
+
+body {
+  background-color: #e1f8dc;
+}
+button {
+  padding: 0.75rem;
+  border: 1.6px solid black;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  background-color: #ffa781;
+  color: #5b0e2d;
+  font-size: large;
+  cursor: pointer;
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  background-color: #ffbc81;
+}
+ul {
+  padding-inline-start: 0px;
+}
